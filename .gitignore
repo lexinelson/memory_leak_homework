@@ -30,5 +30,4 @@ bin/
 
 ### Additional ###
 /.idea
-/target
 *.iml
